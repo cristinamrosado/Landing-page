@@ -67,10 +67,11 @@ ul li a:hover{
     background-color: rgb(246, 224, 122)
 }
 .discount{
+    font-family: 'Montserrat', sans-serif;
     font-size: 18px;
     font-weight: bold;
     color: rgb(16, 13, 212);
-    margin: 30px 70px;
+    margin: 30px 60px;
 }
 @media (max-width: 640px){
     body{
